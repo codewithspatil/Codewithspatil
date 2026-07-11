@@ -1,5 +1,17 @@
-## Hi there 👋
+## Welcome to my GitHub 
+Hii i am sanyogeeta krushna patil.
+I am a diploma computer engineering student.
+I love coding, New technologies,logics and learning new coding languages.
 
+## skills 
+c programming 
+DBMS 
+SQL
+C++
+
+##projects
+C, C++ programs 
+DBMS practicals 
 <!--
 **codewithspatil/Codewithspatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
